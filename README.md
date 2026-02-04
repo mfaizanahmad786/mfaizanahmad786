@@ -1,3 +1,10 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Muhammad Faizan Ahmad
+==============================================================================================================================================
+
+Software Engineer
+-----------------
+
+A developer by day and a cricketer by night, I dream of code and hitting bugs for six before they hit the scoreboard
 * 🌍  I'm based in Islamabad, Pakistan
 * 🖥️  See my portfolio at [Portfolio site](http://faizan.tech)
 * ✉️  You can contact me at [mfaizanahmad009@gmail.com](mailto:mfaizanahmad009@gmail.com)
